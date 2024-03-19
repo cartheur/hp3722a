@@ -1,6 +1,4 @@
-## The art of precision noise
-
-The working concept of _precision_ noise.
+## The working concept of _precision_ noise
 
 Most systems, from simple servos to suspension bridges, are subject to random disturbances which must be accounted for in the design and, if possible, simulated at the prototype test phase. For the purpose of simulation it seems appropriate to use a randomly varying test signal--that is, low-frequency noise--rather than the traditional sine wave. In environmental testing, too, the real-life "shock environment" can often be reproduced accurately with a noise-simulated transducer. The desirability of noise as a test signal has been appreciated for many years, but general acceptance of the technique has been slow--principally owing to the lack of satisfactory generators and related test gear for low-frequency noise.
 
