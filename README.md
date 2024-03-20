@@ -1,4 +1,4 @@
-## The hp3722a noise generator
+## The Hewlett-Packard 3722a Noise Generator
 
 Repository for research and development with the 3722A Noise Generator.
 
