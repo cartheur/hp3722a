@@ -1,6 +1,6 @@
-## The Hewlett-Packard 3722a Noise Generator
+## The 3722a noise generator
 
-Repository for research and development with the 3722A Noise Generator.
+Repository for research and development with the Hewlett-Packard 3722A Noise Generator with Option 01.
 
 ![image](/images/3722a-front.jpg)
 
